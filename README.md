@@ -1,4 +1,1 @@
-I made this project in my 2nd year, semester 4 mini project. My aim was to send all the email updates of university automatically as per the date schedule in the program. Several list of announcement were given in the program
-Smtp feature helps in sending mail to other via third party
-Advantage: user can set their mail and update will be sent automatically via program
-Limitation: high email accounts like gmail and yahoo have high authentication. it works only in small email networks like outlook, proton mail etc.
+This project is a University Update Info System built using Python and Tkinter, integrating Pandas for data handling. It provides a GUI to display student data, upcoming holidays, events, and exam schedules from CSV files. Users can navigate through different sections using buttons, and the system includes an email feature to send updates via SMTP. The interface is designed with Tkinter widgets for an interactive experience.
